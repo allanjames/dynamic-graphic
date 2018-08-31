@@ -1,1 +1,3 @@
 # dynamic-graphic
+
+Instructional guide coming soon........
